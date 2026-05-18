@@ -1,16 +1,15 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D2137,1565C0&height=200&section=header&text=Mudassar%20Asif&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Scalable%20Systems%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1565C0&center=true&vCenter=true&width=750&lines=Building+production-grade+AI+systems+%F0%9F%A4%96;Multi-Agent+%7C+RAG+%7C+LangGraph+%7C+LLM+Memory;ML+%7C+Deep+Learning+%7C+Computer+Vision;Cloud+Architecture+%7C+AWS+%7C+GCP+%7C+Azure;6%2B+years+turning+data+into+intelligence+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D2137,1565C0,4A90D9&height=220&section=header&text=Mudassar%20Asif&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Systems%20Architect&descAlignY=60&descSize=17&animation=fadeIn" width="100%" />
 
 <br/>
 
-<!-- Social badges -->
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=1565C0&center=true&vCenter=true&width=700&lines=I+build+AI+systems+that+work+in+the+real+world.;Multi-Agent+AI+%7C+RAG+Pipelines+%7C+LLM+Memory;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Cloud+Architecture+%7C+AWS+%7C+GCP+%7C+Azure;6%2B+years+of+end-to-end+AI+engineering." alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
 <a href="mailto:mudassarasif646@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-mudassarasif646%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -19,234 +18,205 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-1565C0?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Based%20in-Lahore%2C%20Pakistan-1565C0?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br/><br/>
 
-<!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=mudassarasif&label=Profile+Views&color=1565C0&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=mudassaratwork&label=Profile+Views&color=1565C0&style=flat-square" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+<br/>
 
-```python
-class MudassarAsif:
-    def __init__(self):
-        self.role        = "Tech Lead · Sr. Backend AI Engineer @ TechBit Systems"
-        self.location    = "Lahore, Punjab, Pakistan 🇵🇰"
-        self.experience  = "6+ years"
-        self.email       = "mudassarasif646@gmail.com"
+## 👋 Hello, I'm Mudassar
 
-    @property
-    def focus_areas(self):
-        return [
-            "🤖  Multi-Agent AI Systems & Agentic Workflows",
-            "🔍  RAG Pipelines & Vector Databases (Qdrant, FAISS)",
-            "🧬  LLM Fine-tuning, Memory Systems & Transformer Architecture",
-            "⚙️   Scalable Backend Systems & Microservices",
-            "☁️   Cloud-Native MLOps (AWS · GCP · Azure)",
-            "👁️   Computer Vision & Deep Learning",
-        ]
+I'm an **AI Engineer and Full-Stack Developer** with **6+ years** of experience building intelligent, production-ready systems that solve real business problems at scale.
 
-    @property
-    def current_stack(self):
-        return {
-            "genai"   : ["LangChain", "LangGraph", "Mem0", "Qdrant", "RAG", "Hugging Face"],
-            "ml_dl"   : ["PyTorch", "TensorFlow", "Scikit-Learn", "OpenCV"],
-            "backend" : ["FastAPI", "Django", "PostgreSQL", "MySQL"],
-            "cloud"   : ["AWS", "GCP", "Azure", "Terraform", "Docker", "CI/CD"],
-        }
+I specialize in designing systems where **AI actually works** — not just in notebooks, but in live production environments handling real users, real data, and real stakes. From architecting multi-agent AI workflows to deploying ML models on the cloud, I bring ideas from concept to production.
 
-    def __str__(self):
-        return "Turning raw data into intelligent systems — at scale."
-```
+Currently, I lead backend AI engineering at **TechBit Systems**, where my team builds AI platforms for **healthcare analytics** and **supply chain optimization**.
+
+<br/>
+
+> *"I don't just build models — I build systems that make those models useful."*
+
+<br/>
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🔍 What I Do
+
+<br/>
 
 <div align="center">
-
-### 🤖 Generative AI & LLMs
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0D2137?style=for-the-badge&logo=python&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-![Mem0](https://img.shields.io/badge/Mem0-1565C0?style=for-the-badge&logo=python&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-6A0DAD?style=for-the-badge&logo=openai&logoColor=white)
-
-### 🧠 Machine Learning & Deep Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### ⚙️ Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ☁️ Cloud, DevOps & MLOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-<table>
+<table border="0" cellspacing="0" cellpadding="12">
 <tr>
-<td width="50%">
-
-### 🤖 Multi-Agent Research Assistant
-> LangGraph-powered multi-agent system with Qdrant vector memory and Mem0 LLM memory — agents collaborate autonomously to produce deep research reports.
-
-![LangGraph](https://img.shields.io/badge/LangGraph-0D2137?style=flat-square&logo=python&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
-![Mem0](https://img.shields.io/badge/Mem0-1565C0?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
+<td align="center" width="180">
+<b>🤖 Generative AI</b><br/><br/>
+<sub>Multi-Agent Systems<br/>RAG Pipelines<br/>LLM Memory<br/>Agentic Workflows</sub>
 </td>
-<td width="50%">
-
-### 🔍 Production RAG Pipeline Framework
-> Modular RAG framework with pluggable retrievers, reranking, query expansion, and evaluation suite. Ships with Docker + CI/CD.
-
-![RAG](https://img.shields.io/badge/RAG-6A0DAD?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0078D4?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
+<td align="center" width="180">
+<b>🧠 Machine Learning</b><br/><br/>
+<sub>Predictive Models<br/>Deep Learning<br/>Computer Vision<br/>NLP</sub>
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧬 LLM Fine-Tuning Pipeline (LoRA/QLoRA)
-> End-to-end pipeline for fine-tuning Mistral/LLaMA using LoRA adapters on Hugging Face with PEFT, evaluation metrics, and GGUF export.
-
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LoRA](https://img.shields.io/badge/LoRA%2FQLoRA-6A0DAD?style=flat-square)
-
+<td align="center" width="180">
+<b>⚙️ Backend Systems</b><br/><br/>
+<sub>FastAPI · Django<br/>Microservices<br/>Scalable APIs<br/>PostgreSQL</sub>
 </td>
-<td width="50%">
-
-### ☁️ MLOps Platform on AWS (SageMaker + Terraform)
-> IaC MLOps platform: Terraform provisions SageMaker pipelines, Lambda triggers, S3 model registry, DynamoDB tracking + auto-retrain on data drift.
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏥 Healthcare Analytics ML Platform
-> Patient readmission risk prediction with ensemble models + SHAP explainability. ETL → PostgreSQL → feature store → Django REST API on AWS.
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 👁️ Real-Time Object Detection API
-> YOLOv8 computer vision service with WebSocket streaming, Docker containerization, and SageMaker training pipeline on AWS.
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=opencv&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
+<td align="center" width="180">
+<b>☁️ Cloud & MLOps</b><br/><br/>
+<sub>AWS · GCP · Azure<br/>Terraform · Docker<br/>CI/CD Pipelines<br/>MLOps</sub>
 </td>
 </tr>
 </table>
 </div>
 
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+<br/>
+
+**Generative AI & LLMs**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0D2137?style=flat-square&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![Mem0](https://img.shields.io/badge/Mem0-1565C0?style=flat-square)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-6A0DAD?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0D2137?style=flat-square)
+![Transformer Architecture](https://img.shields.io/badge/Transformers-FF6F00?style=flat-square)
+
+**Machine Learning & Deep Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+**Backend & Data Engineering**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-555555?style=flat-square)
+![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-2C3E50?style=flat-square)
+
+**Cloud, DevOps & MLOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+<br/>
+
+---
+
+## 💼 Experience
+
+<br/>
+
+**🔷 Tech Lead · Sr. Backend AI Engineer — TechBit Systems** *(Aug 2025 – Present · Ontario, Canada)*
+
+Leading a team of engineers building production AI platforms. Architecting multi-agent systems, RAG pipelines with long-term LLM memory, semantic search engines, and scalable microservices on AWS and GCP — serving healthcare and supply chain clients.
+
+---
+
+**🔷 AI/ML Engineer · Data Scientist — AI Stealth** *(Jun 2024 – Aug 2025 · United States)*
+
+Developed Generative AI applications, multi-agent automation workflows, and predictive ML models. Fine-tuned large language models and built RAG-powered knowledge retrieval systems for business decision-making.
+
+---
+
+**🔷 AI/ML Engineer — AI Dynamics** *(Sep 2022 – Apr 2024 · United States)*
+
+Built end-to-end ML/DL and computer vision systems. Designed ETL pipelines and data warehousing infrastructure. Deployed and monitored models at scale on AWS SageMaker, Bedrock, and Lambda.
+
+---
+
+**🔷 Full-Stack Developer · ML Engineer — TechBit** *(Feb 2019 – Aug 2021 · Ontario, Canada)*
+
+Built SaaS platforms combining Django backends with deployed ML models. Established scalable system architectures and MLOps practices for production-ready AI features.
+
+<br/>
+
+---
+
+## 📌 Featured Projects
+
+<br/>
+
+| # | Project | What it does | Stack |
+|---|---------|-------------|-------|
+| 🥇 | **[Multi-Agent Research Assistant](#)** | Autonomous agents collaborate to produce deep research reports with persistent memory | LangGraph · Qdrant · Mem0 · FastAPI |
+| 🥇 | **[Production RAG Framework](#)** | Modular, plug-and-play RAG pipeline with reranking, evaluation suite and CI/CD | Qdrant · FAISS · Docker · Hugging Face |
+| 🥇 | **[Autonomous AI Agent + Long-Term Memory](#)** | ReAct agent that remembers users across sessions and takes real-world actions | LangGraph · Mem0 · Transformers |
+| 🥈 | **[LLM Fine-Tuning Pipeline](#)** | Fine-tune Mistral/LLaMA using LoRA/QLoRA with full evaluation and GGUF export | Hugging Face · PyTorch · PEFT |
+| 🥈 | **[MLOps Platform on AWS](#)** | IaC MLOps: Terraform + SageMaker + Lambda + auto-retrain on data drift | Terraform · AWS · CI/CD |
+| 🥈 | **[Healthcare Analytics Platform](#)** | Patient risk prediction with SHAP explainability and full ETL → API pipeline | Scikit-Learn · Django · PostgreSQL |
+| 🥉 | **[Real-Time Object Detection API](#)** | YOLOv8 computer vision service with WebSocket streaming and SageMaker training | YOLOv8 · FastAPI · Docker · AWS |
+| 🥉 | **[Knowledge Graph + Semantic Search](#)** | Extracts entities from text, builds a knowledge graph, exposes a semantic search API | Neo4j · Qdrant · Transformers |
+
+<br/>
+
 ---
 
 ## 📊 GitHub Stats
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mudassarasif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1565C0&text_color=FFFFFF&icon_color=1565C0&rank_icon=github" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassarasif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1565C0&text_color=FFFFFF&langs_count=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=mudassaratwork&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=FFFFFF&icon_color=1565C0&rank_icon=github" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassaratwork&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=FFFFFF&langs_count=8" height="170" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mudassarasif&theme=tokyonight&hide_border=true&background=0D1117&stroke=1565C0&ring=1565C0&fire=FF6F00&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mudassaratwork&theme=tokyonight&hide_border=true&background=0D1117&stroke=1565C0&ring=1565C0&fire=FF6F00&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" />
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mudassarasif&bg_color=0D1117&color=1565C0&line=1565C0&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mudassaratwork&bg_color=0D1117&color=4A90D9&line=1565C0&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
+<br/>
+
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mudassarasif&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=mudassaratwork&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
 </div>
 
----
-
-## 🗺️ What I'm Working On
-
-```
-📦 Current Focus
-├── 🤖  Multi-Agent AI Systems with LangGraph & persistent LLM memory (Mem0)
-├── 🔍  Production RAG pipelines with hybrid retrieval and reranking
-├── 🧬  LLM fine-tuning with LoRA/QLoRA on domain-specific datasets
-├── ☁️   MLOps automation with Terraform + AWS SageMaker
-└── 📊  Scalable data platforms for healthcare & supply chain domains
-```
+<br/>
 
 ---
 
-## 💼 Experience Timeline
-
-```
-2025 → Present  │  Tech Lead · Sr. Backend AI Engineer @ TechBit Systems (Canada)
-                 │  ► Leading AI system architecture · Multi-agent · RAG · GenAI
-                 │
-2024 → 2025     │  AI/ML Engineer · Data Scientist @ AI Stealth (USA)
-                 │  ► LLMs · Generative AI · Predictive Modeling · Agentic Workflows
-                 │
-2022 → 2024     │  AI/ML Engineer @ AI Dynamics (USA)
-                 │  ► MLOps · AWS SageMaker · Computer Vision · Data Engineering
-                 │
-2019 → 2021     │  Full-Stack Developer · ML Engineer @ TechBit (Canada)
-                 │  ► SaaS Platforms · Django · ML Deployment · Scalable Systems
-```
-
----
-
-## 🤝 Let's Connect & Collaborate
+## 🤝 Open to Collaborate
 
 <div align="center">
 
-> 💡 Open to collaborating on AI/ML open-source projects, research, and production systems.
+I'm always open to working on **open-source AI projects**, **research collaborations**, and **challenging engineering problems**.
+
+If you're building something interesting in the AI/ML space — let's talk.
+
+<br/>
 
 <a href="mailto:mudassarasif646@gmail.com">
   <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -258,6 +228,6 @@ class MudassarAsif:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1565C0,0D2137&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1565C0,0D2137&height=120&section=footer" width="100%" />
 
 </div>
