@@ -154,24 +154,6 @@ Built SaaS platforms combining Django backends with deployed ML models. Establis
 <br/>
 
 ---
-
-## 📌 Featured Projects
-
-<br/>
-
-| # | Project | What it does | Stack |
-|---|---------|-------------|-------|
-| 🥇 | **[Multi-Agent Research Assistant](#)** | Autonomous agents collaborate to produce deep research reports with persistent memory | LangGraph · Qdrant · Mem0 · FastAPI |
-| 🥇 | **[Production RAG Framework](#)** | Modular, plug-and-play RAG pipeline with reranking, evaluation suite and CI/CD | Qdrant · FAISS · Docker · Hugging Face |
-| 🥇 | **[Autonomous AI Agent + Long-Term Memory](#)** | ReAct agent that remembers users across sessions and takes real-world actions | LangGraph · Mem0 · Transformers |
-| 🥈 | **[LLM Fine-Tuning Pipeline](#)** | Fine-tune Mistral/LLaMA using LoRA/QLoRA with full evaluation and GGUF export | Hugging Face · PyTorch · PEFT |
-| 🥈 | **[MLOps Platform on AWS](#)** | IaC MLOps: Terraform + SageMaker + Lambda + auto-retrain on data drift | Terraform · AWS · CI/CD |
-| 🥈 | **[Healthcare Analytics Platform](#)** | Patient risk prediction with SHAP explainability and full ETL → API pipeline | Scikit-Learn · Django · PostgreSQL |
-| 🥉 | **[Real-Time Object Detection API](#)** | YOLOv8 computer vision service with WebSocket streaming and SageMaker training | YOLOv8 · FastAPI · Docker · AWS |
-| 🥉 | **[Knowledge Graph + Semantic Search](#)** | Extracts entities from text, builds a knowledge graph, exposes a semantic search API | Neo4j · Qdrant · Transformers |
-
-<br/>
-
 ---
 
 ## 📊 GitHub Stats
@@ -182,7 +164,7 @@ Built SaaS platforms combining Django backends with deployed ML models. Establis
 
 <img src="https://github-stats-alpha.vercel.app/api?username=mudassaratwork&cc=0D1117&tc=4A90D9&ic=1565C0&bc=0D1117" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassaratwork&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=FFFFFF&langs_count=8&cache_seconds=1800" height="170" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,tensorflow,pytorch,postgres,docker,aws&theme=dark" height="50" />
 
 <br/><br/>
 
