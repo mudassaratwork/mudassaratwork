@@ -180,9 +180,9 @@ Built SaaS platforms combining Django backends with deployed ML models. Establis
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mudassaratwork&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=FFFFFF&icon_color=1565C0&rank_icon=github" height="170" />
+<img src="https://github-stats-alpha.vercel.app/api?username=mudassaratwork&cc=0D1117&tc=4A90D9&ic=1565C0&bc=0D1117" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassaratwork&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=FFFFFF&langs_count=8" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassaratwork&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=FFFFFF&langs_count=8&cache_seconds=1800" height="170" />
 
 <br/><br/>
 
